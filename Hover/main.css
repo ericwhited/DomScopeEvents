@@ -1,0 +1,11 @@
+body {
+	width: 1900px;
+}
+
+#hoverArea {
+	margin: 400px auto 0;
+	border: solid 2px red;
+	width: 450px;
+	text-align: center;
+	color: red;
+}

@@ -1,0 +1,15 @@
+img {
+	height: 200px;
+	width: 100px;
+}
+
+#people {
+	width: 1700px;
+	margin: 0 auto;
+	display: inline-flex;
+}
+
+/*button {
+	display: inline;
+}
+*/
